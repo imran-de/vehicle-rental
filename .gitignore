@@ -1,0 +1,22 @@
+# Dependencies
+node_modules
+
+# Production
+dist
+build
+vercel.json
+
+# Misc
+.env
+SUBMISSION_GUIDE.md
+README1.md
+API_REFERENCE1.md
+
+# Logs
+npm-debug.log*
+logs
+*.log
+
+# Editor directories and files
+.vscode
+.vercel
