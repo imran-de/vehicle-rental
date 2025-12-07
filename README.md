@@ -2,8 +2,8 @@
 
 A robust backend API for a Vehicle Rental Reservation System. This application enables users to browse and book vehicles while providing administrators with tools to manage inventory, bookings, and users.
 
-> **Live URL:** [Insert Live URL Here]
-> **Repository:** [Insert GitHub Repo URL Here]
+> **Live URL:** https://vehicle-rent-two.vercel.app/
+> **Repository:** https://github.com/imran-de/vehicle-rental.git
 
 ---
 
@@ -55,7 +55,7 @@ Follow these instructions to set up and run the project locally.
 
 1.  **Clone the repository**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/imran-de/vehicle-rental.git
     cd Motor_Rent
     ```
 
